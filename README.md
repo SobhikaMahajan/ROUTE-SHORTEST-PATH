@@ -14,7 +14,7 @@ This project helps you to route the shortest distance between two places. The pr
 2. If you choose manually, you have to type the dataset manually.
 3. If you choose uploading the dataset, you have to give the path of the dataset (I have given a sample csv file for easy working) .
 4. After giving the location of the dataset, it will ask you to speak your current location and destination location.
-5. Then it will route the shortest path using A* algorithm.
+5. Then it will route the shortest path using Dijkstra algorithm.
 
 ## Interface 
 The interface of the project is GUI made through python.
