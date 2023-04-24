@@ -1,4 +1,4 @@
-# ROUTE SHORTEST DISTANCE BETWEEN TWO PLACES
+# ROUTE SHORTEST PATH
 
 This project helps you to route the shortest distance between two places. The project works with both typing and voive recognition. You can even upload your own csv file for easy access.
 
