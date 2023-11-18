@@ -16,9 +16,6 @@ This project helps you to route the shortest distance between two places. The pr
 4. After giving the location of the dataset, it will ask you to speak your current location and destination location.
 5. Then it will route the shortest path using Dijkstra algorithm.
 
-## Interface 
-The interface of the project is GUI made through python.
-
 ## Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobhika-mahajan-16776b1b8/) )
 
